@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains information regarding canonical transformations,
   hamilton-jacobi equations, and action-angle variables.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-09-classical-mechanics-iii-fall-2014/f00f7f68ac7ba346a0868efb7430582c_MIT8_09F14_Chapter_4.pdf
+file: /media/courses/8-09-classical-mechanics-iii-fall-2014/f00f7f68ac7ba346a0868efb7430582c_MIT8_09F14_Chapter_4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: '8.09(F14) Chapter 4: Canonical Transformations, Hamilton-Jacobi Equations,
   and Action-Angle Variables'
