@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9f7257d3-eb82-7df4-277d-0fac33629781
 resourcetype: Other
 title: Logistic_Map.nb
 uid: a439f576-cda0-856c-bb20-6cf9c11030d8

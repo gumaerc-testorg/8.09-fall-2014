@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9f7257d3-eb82-7df4-277d-0fac33629781
 resourcetype: Document
 title: Classical Mechanics III, Problem Set 1
 uid: 0409acb8-0f57-82da-f4c9-1abc249eceb4

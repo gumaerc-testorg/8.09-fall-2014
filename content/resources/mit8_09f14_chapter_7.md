@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f4d49e9d-52d2-5e0f-0ae1-a694f18139e1
 resourcetype: Document
 title: '8.09(F14) Chapter 7: Chaos and Non-Linear Dynamics'
 uid: a3b977a1-7091-d225-ee18-70d100c7a308

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9f7257d3-eb82-7df4-277d-0fac33629781
 resourcetype: Other
 title: Damped_Pendulum_PhaseSpace.nb
 uid: 326e631e-86e9-cfb7-383a-6442753d5667

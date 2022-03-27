@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9f7257d3-eb82-7df4-277d-0fac33629781
 resourcetype: Other
 title: Pendulum-Action-Angle-Vars.nb
 uid: d7fc6ce2-5a40-e745-e26b-191599b1fbe4
