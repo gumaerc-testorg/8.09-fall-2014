@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section lists the collection of books from which the readings are
+  derived and the readings assignment for each lecture.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
