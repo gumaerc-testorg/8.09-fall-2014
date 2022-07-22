@@ -5,6 +5,7 @@ file: /courses/8-09-classical-mechanics-iii-fall-2014/d9bac33f6c60b304dc0398e99b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 8.09(F14) Advanced Classical Mechanics
 uid: d9bac33f-6c60-b304-dc03-98e99b327102
 ---
 This resource contains information regarding advanced classical mechanics.
-

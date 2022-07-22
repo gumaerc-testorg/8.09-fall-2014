@@ -5,6 +5,7 @@ file: /courses/8-09-classical-mechanics-iii-fall-2014/4ffa078142eca4a96a4bcb7a90
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Classical Mechanics III, Problem Set 4
 uid: 4ffa0781-42ec-a4a9-6a4b-cb7a90bf0a4c
 ---
 This resource contains information related to problem set 4.
-

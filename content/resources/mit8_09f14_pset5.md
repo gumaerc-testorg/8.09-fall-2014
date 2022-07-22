@@ -5,6 +5,7 @@ file: /courses/8-09-classical-mechanics-iii-fall-2014/a55cb49d8706f671ccfdac7c69
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Classical Mechanics III, Problem Set 5
 uid: a55cb49d-8706-f671-ccfd-ac7c6937cddc
 ---
 This resource contains information related to problem set 5.
-

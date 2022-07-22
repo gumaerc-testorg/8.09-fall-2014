@@ -5,6 +5,7 @@ file: /courses/8-09-classical-mechanics-iii-fall-2014/a439f576cda0856cbb206cf9c1
 file_type: application/mathematica
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Logistic_Map.nb
 uid: a439f576-cda0-856c-bb20-6cf9c11030d8
 ---
 This resource contains information related to Logistic Map.
-
