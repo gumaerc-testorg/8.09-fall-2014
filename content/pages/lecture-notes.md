@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: This section includes the full set of lecture notes for all 26 lectures
+  in this course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: f4d49e9d-52d2-5e0f-0ae1-a694f18139e1
 ---
 
-The [full course notes (PDF - 6.1MB)]({{< baseurl >}}/resources/mit8_09f14_full) are also available for download.
+The {{% resource_link d9bac33f-6c60-b304-dc03-98e99b327102 "full course notes (PDF - 6.1MB)" %}} are also available for download.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -27,7 +32,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[A Review of Analytical Mechanics (PDF)]({{< baseurl >}}/resources/mit8_09f14_chapter_1)
+{{% resource_link 04c9b750-af0e-52b9-0121-e2fe00edf434 "A Review of Analytical Mechanics (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -46,7 +51,7 @@ TOPICS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Rigid Body Dynamics (PDF)]({{< baseurl >}}/resources/mit8_09f14_chapter_2)
+{{% resource_link 6fe39e8d-5ce4-ce74-6ca2-56dfea665eda "Rigid Body Dynamics (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -66,7 +71,7 @@ TOPICS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Vibrations & Oscillations (PDF)]({{< baseurl >}}/resources/mit8_09f14_chapter_3)
+{{% resource_link aa6e7a8b-4e0b-5eee-f24b-ce949d4fdb27 "Vibrations & Oscillations (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -83,7 +88,7 @@ TOPICS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Canonical Transformations, Hamilton-Jacobi Equations, and Action-Angle Variables (PDF)]({{< baseurl >}}/resources/mit8_09f14_chapter_4)
+{{% resource_link f00f7f68-ac7b-a346-a086-8efb7430582c "Canonical Transformations, Hamilton-Jacobi Equations, and Action-Angle Variables (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -104,7 +109,7 @@ TOPICS
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Perturbation Theory (PDF)]({{< baseurl >}}/resources/mit8_09f14_chapter_5)
+{{% resource_link 8ba02baf-f189-6b9b-a92e-eb05e6a6952c "Perturbation Theory (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -122,7 +127,7 @@ TOPICS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-[Fluid Mechanics (PDF)]({{< baseurl >}}/resources/mit8_09f14_chapter_6)
+{{% resource_link 3bfed689-7483-f5c5-5bf6-15ed583af603 "Fluid Mechanics (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -145,7 +150,7 @@ TOPICS
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[Chaos and Non-Linear Dynamics (PDF - 4.8MB)]({{< baseurl >}}/resources/mit8_09f14_chapter_7)
+{{% resource_link a3b977a1-7091-d225-ee18-70d100c7a308 "Chaos and Non-Linear Dynamics (PDF - 4.8MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
