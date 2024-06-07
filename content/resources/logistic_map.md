@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to Logistic Map.
 file: /courses/8-09-classical-mechanics-iii-fall-2014/a439f576cda0856cbb206cf9c11030d8_Logistic_Map.nb
+file_size: 3818249
 file_type: application/mathematica
 learning_resource_types:
 - Assignments
