@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to problem set 8.
 file: /courses/8-09-classical-mechanics-iii-fall-2014/417afaac08e8aab487ec5d706efacd06_MIT8_09F14_pset8.pdf
+file_size: 212560
 file_type: application/pdf
 learning_resource_types:
 - Assignments

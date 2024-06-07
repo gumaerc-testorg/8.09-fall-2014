@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding advanced classical mechanics.
 file: /courses/8-09-classical-mechanics-iii-fall-2014/d9bac33f6c60b304dc0398e99b327102_MIT8_09F14_full.pdf
+file_size: 6408918
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
