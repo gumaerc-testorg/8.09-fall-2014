@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding  vibrations & oscillations.
 file: /courses/8-09-classical-mechanics-iii-fall-2014/aa6e7a8b4e0b5eeef24bce949d4fdb27_MIT8_09F14_Chapter_3.pdf
+file_size: 402018
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
