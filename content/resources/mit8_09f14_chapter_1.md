@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding a review of analytical mechanics.
-file: /courses/8-09-classical-mechanics-iii-fall-2014/04c9b750af0e52b90121e2fe00edf434_MIT8_09F14_Chapter_1.pdf
+file: /ol-ocw-studio-app/courses/8-09-classical-mechanics-iii-fall-2014/04c9b750af0e52b90121e2fe00edf434_MIT8_09F14_Chapter_1.pdf
 file_size: 517679
 file_type: application/pdf
 learning_resource_types:

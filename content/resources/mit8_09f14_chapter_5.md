@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding perturbation theory.
-file: /courses/8-09-classical-mechanics-iii-fall-2014/8ba02baff1896b9ba92eeb05e6a6952c_MIT8_09F14_Chapter_5.pdf
+file: /ol-ocw-studio-app/courses/8-09-classical-mechanics-iii-fall-2014/8ba02baff1896b9ba92eeb05e6a6952c_MIT8_09F14_Chapter_5.pdf
 file_size: 443039
 file_type: application/pdf
 learning_resource_types:
