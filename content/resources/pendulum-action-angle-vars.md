@@ -2,7 +2,7 @@
 content_type: resource
 description: This is the special file regarding Mathematica Code for Pendulum with
   Action Angle Vars.
-file: /courses/8-09-classical-mechanics-iii-fall-2014/d7fc6ce25a40e745e26b191599b1fbe4_Pendulum-Action-Angle-Vars.nb
+file: /ol-ocw-studio-app/courses/8-09-classical-mechanics-iii-fall-2014/d7fc6ce25a40e745e26b191599b1fbe4_Pendulum-Action-Angle-Vars.nb
 file_size: 146909
 file_type: application/mathematica
 learning_resource_types:
