@@ -2,7 +2,7 @@
 content_type: resource
 description: This is the special file regarding Mathematica Code for Damped Pendulum's
   Phase Space.
-file: /ol-ocw-studio-app/courses/8-09-classical-mechanics-iii-fall-2014/326e631e86e9cfb7383a6442753d5667_Damped_Pendulum_PhaseSpace.nb
+file: /courses/8-09-classical-mechanics-iii-fall-2014/326e631e86e9cfb7383a6442753d5667_Damped_Pendulum_PhaseSpace.nb
 file_size: 485788
 file_type: application/mathematica
 learning_resource_types:

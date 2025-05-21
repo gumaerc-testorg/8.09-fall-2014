@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to problem set 3.
-file: /ol-ocw-studio-app/courses/8-09-classical-mechanics-iii-fall-2014/d5fdb8fec0febc6ba799cc86e67af3ee_MIT8_09F14_pset3.pdf
+file: /courses/8-09-classical-mechanics-iii-fall-2014/d5fdb8fec0febc6ba799cc86e67af3ee_MIT8_09F14_pset3.pdf
 file_size: 268800
 file_type: application/pdf
 learning_resource_types:
