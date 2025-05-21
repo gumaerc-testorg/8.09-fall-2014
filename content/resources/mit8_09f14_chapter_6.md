@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding fluid mechanics.
-file: /ol-ocw-studio-app/courses/8-09-classical-mechanics-iii-fall-2014/3bfed6897483f5c55bf615ed583af603_MIT8_09F14_Chapter_6.pdf
+file: /courses/8-09-classical-mechanics-iii-fall-2014/3bfed6897483f5c55bf615ed583af603_MIT8_09F14_Chapter_6.pdf
 file_size: 641423
 file_type: application/pdf
 learning_resource_types:

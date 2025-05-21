@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding chaos and non-linear dynamics.
-file: /ol-ocw-studio-app/courses/8-09-classical-mechanics-iii-fall-2014/a3b977a17091d225ee1870d100c7a308_MIT8_09F14_Chapter_7.pdf
+file: /courses/8-09-classical-mechanics-iii-fall-2014/a3b977a17091d225ee1870d100c7a308_MIT8_09F14_Chapter_7.pdf
 file_size: 5018454
 file_type: application/pdf
 learning_resource_types:

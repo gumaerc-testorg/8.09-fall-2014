@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding rigid body dynamics.
-file: /ol-ocw-studio-app/courses/8-09-classical-mechanics-iii-fall-2014/6fe39e8d5ce4ce746ca256dfea665eda_MIT8_09F14_Chapter_2.pdf
+file: /courses/8-09-classical-mechanics-iii-fall-2014/6fe39e8d5ce4ce746ca256dfea665eda_MIT8_09F14_Chapter_2.pdf
 file_size: 533754
 file_type: application/pdf
 learning_resource_types:
