@@ -28,7 +28,7 @@ DUE ONE DAY BEFORE
 
 {{% resource_link 0409acb8-0f57-82da-f4c9-1abc249eceb4 "Problem Set 1: Classical Mechanics II Review (PDF)" %}}
 
-{{% resource_link "57e0624d-1fa0-4050-9488-1304e013d00d" "Animation of a Double Compound Pendulum Showing Chaotic Behavior" %}}
+[Animation of a Double Compound Pendulum Showing Chaotic Behavior](http://en.wikipedia.org/wiki/Double_pendulum#/media/File:Double-compound-pendulum.gif)
 
 
 {{< tdclose >}}
@@ -112,7 +112,7 @@ Lecture 21
 
 {{% resource_link 40d5efe3-5b82-ffda-3b75-8414a26928b9 "Problem Set 9: Fluids, Chaos (PDF - 3.6MB)" %}}
 
-{{% resource_link "e2afadad-05db-47ee-9e21-98e23bd40669" "Mathematica Code to Explore Driven Nonlinear Damped Oscillator (NB - 18.7MB)" %}}
+[Mathematica Code to Explore Driven Nonlinear Damped Oscillator (NB - 18.7MB)](http://demonstrations.wolfram.com/downloadauthornb.cgi?name=ChaoticMotionOfADampedDrivenPendulumBifurcationPoincareMapPo)
 
 
 {{< tdclose >}}
@@ -131,7 +131,7 @@ Lecture 23
 
 {{% resource_link 326e631e-86e9-cfb7-383a-6442753d5667 "Mathematica Code for Damped Pendulum's Phase Space (NB)" %}}
 
-{{% resource_link "e2afadad-05db-47ee-9e21-98e23bd40669" "Mathematica Code to Explore Driven Nonlinear Damped Oscillator (NB - 19MB)" %}}
+[Mathematica Code to Explore Driven Nonlinear Damped Oscillator (NB - 19MB)](http://demonstrations.wolfram.com/downloadauthornb.cgi?name=ChaoticMotionOfADampedDrivenPendulumBifurcationPoincareMapPo)
 
 
 {{< tdclose >}}
