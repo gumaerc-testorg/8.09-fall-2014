@@ -30,7 +30,7 @@ Goldstein will serve as the main text for the majority of our material. However,
 
 For additional reading you may consider some of the following texts:
 
-Landau, L. D., and E. M. Lifshits *Fluid Mechanics*. Butterworth-Heinemann, 1987. ISBN: 9780750627672. \[Preview with {{% resource_link "953c0e6d-1210-47fe-86e8-ed9e072b7aa7" "Google Books" %}}\]    
+Landau, L. D., and E. M. Lifshits *Fluid Mechanics*. Butterworth-Heinemann, 1987. ISBN: 9780750627672. \[Preview with [Google Books](http://books.google.com/books?id=SvdoN3k8EysC&pg=PAfrontcover)\]    
 Their first three chapters cover the material for our introduction to fluid mechanics. We will only use the third chapter for our discussion of viscosity.
 
 Smits, Alexander J. *A Physical Introduction to Fluid Mechanics*. John Wiley And Sons Ltd, 1999

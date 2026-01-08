@@ -156,9 +156,9 @@ For fluids with viscosity the readings are from Landau and Lifshitz, Fluid Mecha
 
 Further reading on fluids, including lots of worked examples and plenty of problems, can be found in the book "A physical introduction to Fluid Mechanics" by Alexander Smits.
 
-Michal Januszewski. "Flow Around a Sphere with (Lattice Boltzmann Fluid Simulation with Sailfish)." November 25, 2009. _YouTube._ Accessed April 16, 2015. {{% resource_link "b5ae402b-894f-45fa-b40e-6fef33aa044d" "https://www.youtube.com/watch?v=sv2ZA6SaORE" %}}
+Michal Januszewski. "Flow Around a Sphere with (Lattice Boltzmann Fluid Simulation with Sailfish)." November 25, 2009. _YouTube._ Accessed April 16, 2015. [https://www.youtube.com/watch?v=sv2ZA6SaORE](https://www.youtube.com/watch?v=sv2ZA6SaORE)
 
-Fluidmechanicsvideo. "Flow Past Cylinder - Science Experiment." October 15, 2013. _YouTube._ Accessed April 16, 2015. {{% resource_link "caf6aba6-fd1e-4ca3-a65d-fbfea12e612f" "https://www.youtube.com/watch?v=hrX11VtXXsU" %}}
+Fluidmechanicsvideo. "Flow Past Cylinder - Science Experiment." October 15, 2013. _YouTube._ Accessed April 16, 2015. [https://www.youtube.com/watch?v=hrX11VtXXsU](https://www.youtube.com/watch?v=hrX11VtXXsU)
 
 
 {{< tdclose >}}
